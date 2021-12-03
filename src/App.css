@@ -1,0 +1,14 @@
+.App {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./assets/fondo-mapa.jpg);
+
+    background-size: cover;
+
+
+}
+
+.cursive {
+    @import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+}

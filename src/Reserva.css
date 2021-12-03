@@ -1,0 +1,17 @@
+@media  screen and (max-width:600px) {
+    .nav-reserva{
+        height: 4rem;
+    }
+    .img-res{
+        width: 25%;
+        z-index: 10;
+        height: 25%;
+    }
+    .z{
+        z-index: 10;
+        background-color: #212428;
+    }
+    .b{
+        margin: 0 -3% 0;
+    }
+}
